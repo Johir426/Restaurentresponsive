@@ -1,0 +1,513 @@
+@media only screen and (min-width:1021) and (max-width: 1200px){
+
+
+    .container h1{
+    font-size: 2.7vw;
+    letter-spacing: 1.5px;
+    padding-top: 10px;
+    
+    
+    
+    } 
+    .brkfast {
+       
+       
+    }
+    .footer-banner {
+    
+    }
+    
+    }
+    
+    @media  screen and  (max-width: 1020px){
+        .banner-text p {
+            font-size: 1.9vw;
+            padding-top: 20px;
+        }
+        .header{
+            width: 100%;
+          
+         
+            background-position: 100% 32%;
+           
+        }
+        .food{
+            margin-left: 2vw;
+        }
+          
+            .container .contin {
+                margin-top: 20px;
+            }
+            .brkfast-text p {
+                font-size: 75px;
+        
+            }
+            .foot .foot-right ul li a{
+                font-size: 15px;
+                padding: 0px 10px ;
+            }
+            .foot .foot-left p{
+                font-size: 17px;
+             
+            }
+            menu ul .eudora {
+                font-size: 2.7vw;
+                margin-top: -9px;
+            }
+            menu{
+                margin: auto;
+               
+               text-align: center;
+               
+               width: 47%;
+               
+               }
+               menu ul li a {
+               
+                padding:60px 10px ;
+                font-size: 1.4vw;
+               
+                }
+            .container #hr1 {
+                width: 180px;
+               
+                top: 12px;
+            }
+            .container #hr2 {
+                width: 180px;
+                
+                top: 12px;
+        
+        
+        }
+        .footer-banner button{
+            height: 35px;
+            margin-top: 5px;
+        }
+        .footer-banner{
+      width: 100%;
+        } 
+
+    }
+    
+    @media  screen and (max-width: 780px){
+        .header{
+            max-width: 100%;
+          
+            background-position: 127% 32%;
+            background-size: 1300px;
+        }
+        .header{
+            width: 100%;
+          
+         
+            background-position: 100% 32%;
+           
+        }
+    
+    
+
+        menu ul .eudora {
+            font-size: 4vw;
+            margin-top: -10px;
+           
+        }
+
+            menu{
+                margin: auto;
+               
+               text-align: center;
+               
+               width:64%;
+               
+               }
+               menu ul li a {
+               
+                padding:60px 8px ;
+                font-size: 2vw;
+               
+                }
+                
+        .container p {
+            font-size: 1.7vw;
+        }
+    
+        .food .food-list #more {
+           
+            font-size: 0.9vw;
+    
+        }
+        .food-big img{
+            height: 150px;
+        }
+        .food-big p {
+            font-size: 1.8vw;
+          
+        }
+        .food-big h3 {
+            font-size: 3.2vw;
+        }
+        .container h1 {
+            font-size: 2.8vw;
+            letter-spacing: 1.5px;
+            padding-top: 10px;
+        }
+        .container #hr1 {
+            width: 140px;
+           
+            top: 18px;
+        }
+        .container #hr2 {
+            width: 140px;
+            
+            top: 18px;
+    
+    }
+    
+    .items .item {
+        width: 45%;
+        
+    }
+    .brkfast{
+        margin-top: -130px;
+        height: 400px;
+    }
+        
+    .brkfast-text p {
+        font-size: 56px;
+        padding-top: 3vw;
+        padding-left: 2vw;
+    
+    }
+    .items .item p{
+        font-size: 18px;
+        padding: 5px 10px ;
+    }
+    .items .item button{ 
+          
+        width: 12vw;
+        height: 3vw;
+       font-size: 1.4vw;
+       
+    }
+    #tom{
+       margin-left: 27px;
+    
+     }
+     .footer-banner{
+       margin-top: 200px;
+       max-width: 100%;
+        text-align: center;
+       
+      
+    
+    
+    }
+     .footer-banner input{
+        width: 380px;
+        height: 40px;
+        
+        }
+        .footer-banner h1{
+            
+            padding-top: 100px;
+            font-size: 36px;
+           
+        }
+        .foot .foot-right ul li a{
+            font-size: 10px;
+            padding: 0px 3px ;
+        }
+        .foot .foot-left p{
+            font-size: 10px;
+            margin-top: 2px;
+         
+    
+        }
+        #tom{
+            margin-left: 0px;
+        }
+        .banner-text h1{
+            font-size: 4vw;
+        }
+        .banner-text p{
+            font-size: 2.2vw;
+        }
+        .foot{
+      
+            padding-top: 5px;
+                }
+            }
+            .foot .foot-left{
+            width: 100%;
+            padding-top: 35px;
+            
+            }
+
+    
+        
+    
+    @media only screen and  (max-width: 576px){
+        .header{
+            width: 100%;
+          
+         
+            background-position: 100% 32%;
+           
+        }
+      .menubar menu ul {
+            flex: 0;
+        }
+        .header{
+           width: 100%;
+          
+        }
+        .footer-banner{
+            width: 100%;
+        }
+      
+     #tom{
+         margin-left: 10px;
+     }
+     .footer-banner {
+        margin-top: 178vw;
+    
+
+     }
+     menu{
+        margin: auto;
+       
+       text-align: center;
+       
+       width:74%;
+       
+       }
+       menu ul li a {
+       
+        padding:60px 8px ;
+        font-size: 2vw;
+       
+        }
+        menu ul .eudora {
+            font-size: 4.7vw;
+            margin-top: -9px;
+        }
+     
+        .items .item {
+           width: 100%;
+           text-align: center;
+         
+        }
+        .items .item p{
+            font-size: 3.5vw;
+            padding: 5px 3vw ;
+        }
+        .items .item h3{
+            font-size: 5.5vw;
+            padding: 5px 0vw ;
+        }
+    
+        .items .item button{ 
+              
+            width: 15vw;
+            height: 3vw;
+           font-size: 1.8vw;
+           
+        }
+        .container h1 {
+            font-size: 2.4vw;
+            letter-spacing: 1.5px;
+            padding-top: 10px;
+        }
+        .container #hr1 {
+            width: 75px;
+           
+            top: 14px;
+            height: 1px;
+        }
+        .container #hr2 {
+            width: 75px;
+            
+            top: 14px;
+            height: 1px;
+    
+    
+    }
+    
+    .brkfast-text p {
+        font-size: 28px;
+        padding-top: 5vw;
+        padding-left: 2vw;
+    
+    }
+    .food{
+        margin-left:1.5%;
+        margin-bottom: 30px;
+    }
+    .food-list{
+        width: 48%;
+        float: left;
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .food-list img{
+        width: 80%;
+        padding: 10;
+      
+    }
+    
+    .food-big{
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-top: 20px;
+        margin:20px auto;
+    
+    }
+    .food-big img{
+        width: 80%!important;
+        margin: auto;
+    }
+    .food .food-list #more{
+       
+        width: 8vw;
+        height: 2.5vw;
+       
+        font-size: 1vw;
+        margin-top: -0px;
+        
+      
+    
+    }
+    
+    
+    .food-big img{
+        width: 100%;
+        height: 180px;
+        margin-top: 10px;
+    }
+    .container .contin button{
+        width: 20vw;
+        height: 30px;
+       
+        font-size: 3.5vw;
+       
+        
+        }
+        
+    .footer-banner h1{
+        color:white;
+        padding-top: 150px;
+        font-size: 28px;
+      
+    }
+    .footer-banner input{
+    width: 280px;
+    height: 30px;
+    margin: 15px 0px 
+    
+    }
+    .footer-banner input:placeholder-shown{
+       
+        font-size: 16px;
+       
+    }
+    .footer-banner button{
+        width: 120px;
+         padding: 5px 10px; background:rgb(17, 14, 10) ;
+       
+         height:30px;
+         font-size: 2vw;
+         margin-top: 10px;
+        
+    }
+    .food .food-list #more{
+        border: 1px solid white;
+        font-weight: bold;
+        width: 12vw;
+        height: 4.5vw;
+        text-transform: uppercase;
+        font-size: 1.5vw;
+        background-color: ;
+        color: #6B749C;
+        background-color: antiquewhite;
+        cursor: pointer;
+        transition: all ease .5s;
+        margin-top: 10px;
+    
+    }
+    #container h1{
+      
+    }
+    
+    #container #hr1 {
+        width: 80px;
+       
+        top: 15px;
+    }
+    #container #hr2 {
+        width: 80px;
+        
+        top: 15px;
+    
+    }
+    .foot .foot-left p{
+        font-size: 8px;
+        color: white;
+        margin-left: 30px;
+    }
+    .food {
+        margin-left: 1.5%;
+        margin-bottom: 30px;
+        height: 800px;
+    }
+    .brkfast {
+        height: 120vw;
+       
+    }
+    .foot{
+      
+    padding-top: 5px;
+        }
+    }
+    .foot .foot-left{
+    width: 100%;
+    padding-top: 35px;
+    
+    }
+    .foot-right ul li{
+        display: block;
+        padding-top: 15px;
+    }
+    
+    
+    }
+    
+            .footer-banner {
+                margin-top: 185vw;
+            
+        
+             }
+             .foot-right ul{
+                margin-top: 30px;
+                margin-right: 25px;
+                }
+               
+                .foot-right ul li a{
+                    font-size: 1.8vw!important;
+                }
+
+                .foot .foot-left p{
+                    font-size: 8px;
+                    color: white;
+                    margin-left: 20px;
+                }
+                .meader {
+                    max-width: 1300px;
+                    height: 564px;
+                }
+                .banner-footer{
+                    width: 100%;
+                }
+ }

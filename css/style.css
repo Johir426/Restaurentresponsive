@@ -1,0 +1,483 @@
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+ 
+    font-family: 'Zilla Slab', serif;
+    max-width: 1300px;
+    margin: auto;
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#fefcea+0,f1da36+47 */
+background: #fefcea; /* Old browsers */
+background: -moz-linear-gradient(top,  #fefcea 0%, #f1da36 47%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #fefcea 0%,#f1da36 47%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #fefcea 0%,#f1da36 47%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefcea', endColorstr='#f1da36',GradientType=0 ); /* IE6-9 */
+
+
+   
+    
+
+}
+.header{
+    max-width: 1300px;
+ 
+    background-image: url(../images/banner.png);
+    background-position: 100% 32%;
+    background-size: 1300px;
+    height: 850px;
+}
+
+
+
+}
+.head {
+
+}
+.menubar{
+  
+    margin: auto;
+    text-align:center ;
+    background: rgba(0, 0, 0, 0.4);
+}
+.bar{
+    max-width: 100%;
+    margin: 0 auto;
+    height: 140px;
+
+
+}
+menu{
+ margin: auto;
+
+text-align: center;
+
+width: 49%;
+
+}
+menu ul{
+
+margin: auto;
+text-align: center;
+display: flex;
+max-width: 48%;
+
+
+}
+menu ul li{
+list-style-type: none;
+
+
+
+display: block;
+
+}
+menu ul .eudora{
+font-size: 2.7vw;
+margin-top: -13px;
+}
+menu ul li a {
+text-decoration: none;
+color: white;
+display: inline-block;
+text-transform: uppercase;
+padding:60px 15px ;
+
+text-align: center;
+font-size: 1.4vw;
+display: block;
+
+
+}
+menu ul li a:hover{
+    color:#E8900B
+}
+.active{
+    color:#E8900B
+}
+.banner-text{
+    margin-top: 220px;
+    text-align: center;
+    color: white;
+    padding-bottom: 250px;
+}
+.banner-text h1{
+font-size: 3.3vw;
+font-style: italic;
+text-transform: uppercase;
+
+}
+.banner-text p{
+    font-size: 1.6vw;
+    padding: 10px 0px ;
+    color: gainsboro;
+}
+.banner-text #about{
+    display: block;
+    margin: auto;
+    width: 175px;
+    height: 50px;
+    text-transform: uppercase;
+    background: none;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1.7px;
+    cursor: pointer;
+    border-radius: 5px ;
+    border: 1px solid white;
+    transition: all ease .5s;
+    margin-top: 50px;
+
+}
+.banner-text #about:hover{
+    background-color: orange;
+}
+/******Container*******/
+.container{ text-align: center;
+    margin-top: 40px;
+    max-width: 1300px;
+    position: relative;
+
+}
+.container #hr1{  width: 250px;
+    height: 2px;
+    background-color: orange;
+    border: 1px solid orange;
+    position: absolute;
+    left: 4vw;
+    top: 25px;
+
+
+}
+.container #hr2{
+   width: 250px;
+   height: 2px;
+   background-color: orange;
+   border: 1px solid orange;
+   position: absolute;
+   right: 4vw;
+   top: 25px;
+}
+.container h1{
+font-size: 3vw;
+letter-spacing: 1.5px;
+font-style: italic;
+color: #6E7499;
+}
+.container p{
+font-size: 1.4vw;
+padding: 15px 5px ;
+color: #6E7499;
+}
+.container .contin{
+    margin-top: 40px;
+}
+.container .contin button{
+width: 120px;
+height: 40px;
+margin: 0px 5px ;
+text-transform: uppercase;
+color: #70739B;
+border: 1px solid #70739B;
+font-weight: bold;
+font-size: 18px;
+cursor: pointer;
+transition: all ease .4s;
+
+}
+.container .contin button:hover{
+    background-color: #6B749C;
+    color: white;
+}
+
+
+
+.food{
+    max-width: 1200px;
+    margin: auto;
+    height: 450px;
+    margin-top: 60px;
+   
+    
+    
+}
+.food-list{
+    width: 17%;
+    float: left;
+    text-align: center;
+    margin-right: 2%;
+}
+.food-list:nth-child(5){
+    margin-right: 0;
+}
+.food-list img{
+    width: 60%;
+    padding: 10;
+  
+}
+.food-list a{
+
+}
+.food-big{
+    width: 24%;
+    float: left;
+    text-align: center;
+}
+
+.food-big img{
+    width: 100%;
+    height: 200px;
+    margin-top: -40px;
+}
+.food .food-list #more{
+    border: 1px solid white;
+    font-weight: bold;
+    width: 8vw;
+    height: 2.5vw;
+    text-transform: uppercase;
+    font-size: 1vw;
+    background-color: ;
+    color: #6B749C;
+    background-color: antiquewhite;
+    cursor: pointer;
+    transition: all ease .5s;
+    margin-top: 10px;
+
+}
+.food .food-list #more:hover{
+    background-color: #E59204;
+}
+.food-big h2{
+    color: #E38F06;
+    font-size: 4vw;
+    font-style: italic;
+}
+.food-big h3{
+    padding: 5px 0px ;
+    font-size: 1.7vw;
+}
+.food-big p{
+    font-size: 1.2vw;
+    padding: 8px 0px ;
+    color: darkgrey;
+}
+
+/******Brkfast**********/
+.brkfast{
+max-width: 1300px;
+height: 500px;
+margin-top: -100px;
+}
+.brkfast-text{
+width: 40%;
+height: 400px;
+background-color: #E59204;
+float: left;
+}
+.brkfast-text p{
+font-size: 82px;
+padding-left: 2vw;
+color: white;
+
+}
+.brkfast .brkfast-pic{
+    width: 60%;
+    height: 400px;
+    float: right;
+}
+.brkfast-pic img{
+width: 100%;
+height: 400px;
+}
+
+
+.meader{
+max-width: 1300px;
+height: 640px;
+
+
+
+}
+
+.items{
+margin-top: 1px;
+max-width: 1200px;
+margin: auto;
+
+
+
+}
+.items .item{
+width: 30%;
+float: left;
+margin-top: 40px;
+
+
+text-align: center;
+margin-right: 5%;
+ }
+ .item:nth-child(3){
+    margin-right: 0;
+ }
+ .item:nth-child(6){
+    margin-right: 0;
+ }
+#etom{
+    padding-top: 12px;
+ }
+
+.items .item img{
+
+}
+.items .item h3{
+    color: #6E7499;
+    padding: 10px 0px ;
+    font-size: 26px;
+}
+.items .item p{
+    font-size: 19px;
+    padding: 15px 20px ;
+}
+.items .item button{ 
+    border: 2px solid #F0F0F0;
+    font-weight: bold;
+    width: 8vw;
+    height: 2.5vw;
+    text-transform: uppercase;
+    font-size: 1vw;
+    background-color: ;
+    color: #6B749C;
+    background-color: ;
+    cursor: pointer;
+    transition: all ease .5s;
+    margin-top: 8px;
+}
+.items .item button:hover{
+    background-color: slategray;
+    color: white;
+    text-transform: lowercase;
+}
+
+
+/*********Footer Banner*******/
+
+element.style {
+}
+.footer-banner {
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-image: url(../images/footer.png);
+    max-width: 1300px;
+    text-align: center;
+    background-size: 1300px;
+    height: 350px;
+    
+}
+.footer-banner h1{
+    color:white;
+    padding-top: 5vw;
+    font-size: 48px;
+    font-style: italic;
+    letter-spacing: 1.5px;
+}
+
+.footer-banner input{
+width: 380px;
+height: 60px;
+border-radius: 5px;
+margin: 20px 0px ;
+background: none;
+
+border: 1px solid white;
+
+
+
+}
+.footer-banner input:placeholder-shown{
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-style: italic;
+ padding-left: 8%;
+}
+.footer-banner button{
+    width: 180px;
+     padding: 5px 18px; background:rgb(17, 14, 10) ;
+     color: white;
+     border: 1px solid #E59204;
+    display: block;
+    margin: auto;
+     border: 1px solid #E59204;
+     background-color:#E59204;
+     height: 45px;
+     font-size: 18px;
+     margin-top: 10px;
+     cursor: pointer;
+     border: 1px solid #DF4C5C;
+     transition: all ease .5s;
+   
+}
+.footer-banner button:hover{
+    background-color: #DF4C5C;
+}
+/****Footer*******/
+.footer{
+max-width: 1300px;
+height: 90px;
+background-color: #2A2D2E;
+
+}
+.foot{
+max-width: 1200px;
+margin: auto;
+display: flex;
+position: relative;
+
+}
+.foot .foot-left{
+width: 50%;
+
+}
+.foot .foot-left p{
+    font-size: 1.8vw!important;
+    color: white;
+    margin-left: 30px;
+}
+.foot .foot-right{
+position: absolute;
+right: 0;
+}
+.foot-right ul{
+margin-top: 35px;
+margin-right: 20px;
+}
+.foot-right ul li{
+    
+    list-style-type: none;
+    padding-top: 45px;
+    display: inline!important;
+
+
+}
+.foot-right ul li a{ 
+text-decoration: none;
+padding: 0px 12px ;
+font-size: 20px;
+text-transform: uppercase;
+color: white;
+
+display: inline-block;
+
+
+}
+.foot-right ul li a:hover{
+    color: #6E7499;
+}
+
+
+
